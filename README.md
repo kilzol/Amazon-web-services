@@ -5,4 +5,7 @@ aws is a subsiduary of amazon that provides on demand cloud computing platform t
 >Amazon Elastic Compute Cloud
 
  It is one of the services provided by cloud, which allows users to have at their disposal a virtual cluster of computers, available all the time, through the Internet.
- here we will learn working on EC2.
+
+here we will learn working on EC2.
+
+key-value pair of every region is diffrent.
