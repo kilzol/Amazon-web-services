@@ -5,7 +5,11 @@ to launch a linux instance go to AWS management console.
 >from console dashboard choose launch instance.
 >The Choose an Amazon Machine Image (AMI) page displays a list of basic configurations, called Amazon Machine Images (AMIs), that serve as templates for your instance. Select an HVM version of Amazon Linux 2. Notice that these AMIs are marked "Free tier eligible."
 
+![alt](https://github.com/kilzol/Amazon-web-services/blob/master/images/Screenshot%20(56).png)
+
 >On the Choose an Instance Type page, you can select the hardware configuration of your instance. Select the t2.micro type, which is selected by default. Notice that this instance type is eligible for the free tier.
+
+![alt](https://github.com/kilzol/Amazon-web-services/blob/master/images/Screenshot%20(57).png)
 
 >Choose Review and Launch to let the wizard complete the other configuration settings for you.
 
@@ -19,9 +23,11 @@ to launch a linux instance go to AWS management console.
 
 >On the Review Instance Launch page, choose Launch.
 
+![alt](https://github.com/kilzol/Amazon-web-services/blob/master/images/Screenshot%20(58).png)
+
 >When prompted for a key pair, select Choose an existing key pair, then select the key pair that you created when getting set up.
 
-
+![alt](https://github.com/kilzol/Amazon-web-services/blob/master/images/Screenshot%20(59).png)
 
 Warning
 
@@ -33,4 +39,9 @@ Warning
 
 >On the Instances screen, you can view the status of the launch. It takes a short time for an instance to launch. When you launch an instance, its initial state is pending. After the instance starts, its state changes to running and it receives a public DNS name. (If the Public DNS (IPv4) column is hidden, choose Show/Hide Columns (the gear-shaped icon) in the top right corner of the page and then select Public DNS (IPv4).)
 
+![alt](https://github.com/kilzol/Amazon-web-services/blob/master/images/Screenshot%20(60).png)
+
 >It can take a few minutes for the instance to be ready so that you can connect to it. Check that your instance has passed its status checks; you can view this information in the Status Checks column.
+
+![alt](https://github.com/kilzol/Amazon-web-services/blob/master/images/Screenshot%20(61).png)
+
