@@ -30,4 +30,4 @@
 
 >Now you can access your file from any web browser just by clicking on the given link.
 
-![kil](https://github.com/kilzol/Amazon-web-services/blob/master/images/access-through-web-browser/Screenshot%20(95).png)
+![kil](https://github.com/kilzol/Amazon-web-services/blob/master/images/access-through-web-browser/Screenshot%20(100).png)
